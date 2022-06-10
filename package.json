@@ -3,7 +3,7 @@
 	"description": "Flexible Discord HTTP Proxy built on top of @discordjs/proxy with the goal of enabling cache.",
 	"packageManager": "yarn@3.2.1",
 	"main": "./dist/index.js",
-	"version": "0.1.0-dev",
+	"version": "1.0.0",
 	"type": "module",
 	"author": {
 		"name": "DD",
